@@ -18,9 +18,9 @@ global.APIKeys = {
 // Other
 global.owner = ['6281321776496']
 global.ownernomer = "6281321776496"
-global.premium = ['6281321776496'']
-global.packname = 'ᴬᴺᴵᴬ ᴮᴼᵀ'
-global.author = 'ᴬᴺᴵᴬ ᴮᴼᵀ'
+global.premium = ['6281321776496']
+global.packname = 'ANIA BOT'
+global.author = 'ᴹᴿ᭄defα͢͢͢ή፝֟͜* ×፝֟͜×'
 global.sessionName = 'zenss'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
